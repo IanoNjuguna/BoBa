@@ -1,5 +1,5 @@
-# InfiniPong
+# Boba: The Bouncing Ball
 
 ## Description
 
-InfiniPong
+Boba is a bouncing ball.
