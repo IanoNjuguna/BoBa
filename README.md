@@ -1,5 +1,7 @@
-# InfiniPong
+# Boba: The Bouncing Ball
 
 ## Description
 
-InfiniPong
+Boba is a bouncing ball.
+
+> Inspired by the lore of Zima Blue
