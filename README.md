@@ -4,7 +4,9 @@
 
 ## Description
 
-BoBa is a ball bouncing around within a window. I built this to demonstrate the principles of animation and collision detection using the Python's Turtle module.
+BoBa is a ball bouncing around within a window.
+
+BoBa demonstrates the principles of animation and collision detection using the Turtle module in the Python programming language.
 
 ### Documentation
 
